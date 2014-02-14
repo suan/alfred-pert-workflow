@@ -9,6 +9,8 @@ Example:
 
     pert 2 3 5
 
+If \<Enter\> is pressed the output is copied to your clipboard.
+
 ## Credits
 [Alfred 2 Workflow Ruby Template](https://github.com/zhaocai/alfred2-ruby-template)
 
